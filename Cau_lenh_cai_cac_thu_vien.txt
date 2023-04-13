@@ -1,0 +1,5 @@
+Tạo dự án react mới:
+ex: npx create-react-app <tên app>
+
+Cài thư viện: customize-cra react-app-rewired để ghi đè tùy chinhfe lại cho dự án
+ex: npm i customize-cra react-app-rewired -d (-d: chỉ cài cho dev)
