@@ -12,4 +12,12 @@ ex: npm i customize-cra react-app-rewired -d (-d: chỉ cài cho dev) => Tạo f
 
  + pretier giúp format lại code => Cài trong extenstion trong VS Code => Tạo file .prettierrc => Tạo file .vscode/settings.json
 
+ + SASS ex: npm i -d sass
+
+ + Reset CSS ex: npm install --save normalize.css
+
+ + react-router-dom ex: npm i react-router-dom
+
+ + react snip và hymltagwrap bằng extenstion của VSCode
+
 
