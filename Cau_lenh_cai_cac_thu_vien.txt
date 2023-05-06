@@ -20,4 +20,6 @@ ex: npm i customize-cra react-app-rewired -d (-d: chỉ cài cho dev) => Tạo f
 
  + react snip và hymltagwrap bằng extenstion của VSCode
 
+ + Cài đặt thư viện classnames: npm i classnames
+
 
