@@ -21,5 +21,11 @@ ex: npm i customize-cra react-app-rewired -d (-d: chỉ cài cho dev) => Tạo f
  + react snip và hymltagwrap bằng extenstion của VSCode
 
  + Cài đặt thư viện classnames: npm i classnames
+ + Cài đặt thư viện font awesome để sử dụng icon 
+ "@fortawesome/fontawesome-svg-core": "^1.3.0",
+"@fortawesome/free-brands-svg-icons": "^6.0.0",
+"@fortawesome/free-regular-svg-icons": "^6.0.0",
+"@fortawesome/free-solid-svg-icons": "^6.0.0",
+"@fortawesome/react-fontawesome": "^0.1.17",
 
 
