@@ -28,4 +28,8 @@ ex: npm i customize-cra react-app-rewired -d (-d: chỉ cài cho dev) => Tạo f
 "@fortawesome/free-solid-svg-icons": "^6.0.0",
 "@fortawesome/react-fontawesome": "^0.1.17",
 
+ + Cài đặt thư viện tippyjs for react để tạo ra mục suggest kết quả tìm kiếm và tooltip:
+ ex:  npm i @tippyjs/react
+ link doc: https://atomiks.github.io/tippyjs/v5/all-props/
+
 
